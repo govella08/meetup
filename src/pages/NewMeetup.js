@@ -1,7 +1,7 @@
 import React from "react";
 
 function NewMeetupPage() {
-  return "New Meetup Page";
+  return <div>New Meetup Page</div>;
 }
 
 export default NewMeetupPage;

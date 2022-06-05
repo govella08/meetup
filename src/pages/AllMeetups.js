@@ -1,7 +1,7 @@
 import React from "react";
 
 function AllMeetupPage() {
-  return "All Meetup Page";
+  return <div>All Meetup Page</div>;
 }
 
 export default AllMeetupPage;
